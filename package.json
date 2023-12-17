@@ -1,6 +1,6 @@
 {
   "name": "sn-theme-serendipity-dark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/dist.css",
   "author": "Luis Steidle",
   "publishConfig": {
