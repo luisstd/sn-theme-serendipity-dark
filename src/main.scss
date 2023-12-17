@@ -62,9 +62,8 @@
 
   --navigation-item-selected-background-color: var(--sn-stylekit-secondary-contrast-background-color);
 
-  --sn-stylekit-monospace-font: 'MonoLisa', monospace;
-  --sn-stylekit-sans-serif-font: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
-    'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  --sn-stylekit-monospace-font: 'MonoLisa', ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  --sn-stylekit-sans-serif-font: system-ui, sans-serif;
 
 }
 
