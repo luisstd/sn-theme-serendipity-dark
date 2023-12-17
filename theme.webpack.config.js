@@ -35,7 +35,7 @@ module.exports = {
   },
   plugins: [
     new MiniCssExtractPlugin({
-      filename: 'theme.css',
+      filename: 'dist.css',
     }),
     new RemoveEmptyScriptsPlugin(),
   ],
