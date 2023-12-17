@@ -1,7 +1,7 @@
 {
-  "name": "sn-theme-serendipity",
+  "name": "sn-theme-serendipity-dark",
   "version": "1.0.0",
-  "main": "dist/dist.css",
+  "main": "dist/theme.css",
   "author": "Luis Steidle",
   "publishConfig": {
     "access": "public"
