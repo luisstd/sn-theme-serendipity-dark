@@ -1,0 +1,28 @@
+{
+  "name": "sn-theme-serendipity",
+  "version": "1.0.0",
+  "main": "dist/dist.css",
+  "author": "Luis Steidle",
+  "publishConfig": {
+    "access": "public"
+  },
+  "sn": {
+    "name": "Serendipity",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "main": "dist/dist.css",
+    "showInGallery": true
+  },
+  "scripts": {
+    "build": "webpack --entry ./src/main.scss --config ./theme.webpack.config.js"
+  },
+  "devDependencies": {
+    "webpack": "*",
+    "webpack-cli": "^5.1.4",
+    "sass": "^1.52.3",
+    "sass-loader": "^13.1.0",
+    "css-loader": "^6.7.1",
+    "mini-css-extract-plugin": "^2.6.1",
+    "webpack-remove-empty-scripts": "^0.8.0"
+  }
+}

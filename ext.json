@@ -1,0 +1,8 @@
+{
+    "identifier": "org.github.luisstd.sn-theme-serendipity",
+    "name": "Serendipity Dark",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.0.0",
+    "url": "http://localhost:8001/dist/theme.css"
+}
